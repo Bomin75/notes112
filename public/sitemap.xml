@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/statistics/intro/</loc>
+    <loc>https://bomin75.github.io/notes/statistics/intro/</loc>
     <lastmod>2024-09-02T15:13:53-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://bomin75.github.io/notes/</loc>
     <lastmod>2024-09-02T15:13:53-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/statistics/</loc>
+    <loc>https://bomin75.github.io/notes/statistics/</loc>
     <lastmod>2024-09-02T15:13:53-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://bomin75.github.io/notes/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://bomin75.github.io/notes/tags/</loc>
   </url>
 </urlset>
