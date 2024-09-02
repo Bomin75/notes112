@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Notes</title>
+    <link>https://bomin75.github.io/notes/</link>
+    <description>Recent content on Notes</description>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Sep 2024 15:13:53 -0400</lastBuildDate>
+    <atom:link href="https://bomin75.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro</title>
+      <link>https://bomin75.github.io/notes/statistics/intro/</link>
+      <pubDate>Mon, 02 Sep 2024 15:13:53 -0400</pubDate>
+      <guid>https://bomin75.github.io/notes/statistics/intro/</guid>
+      <description>Introduction to Statistics </description>
+    </item>
+  </channel>
+</rss>
